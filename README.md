@@ -1,6 +1,5 @@
-# checksum
-
-
+# checksum  (English version is added into release, see Checksum-EN.exe)  Build for Windows X64 
+ 
 # 这是一个检测文件夹是否被篡改的工具，可以审核文件夹完整性。实现了MD5DEEP的一部分功能， 但是本工具是用python实现的有图形界面。
 
 # 使用场景
@@ -17,11 +16,17 @@
 第一次打开数据文件夹时，在文件夹下建立一个checksum.pk文件，其中内容是这个文件夹的快照(snapshot)，下次再打开这个文件夹时根据checksum.pk检验该文件夹下的文件哪些不变，哪些被修改、删除。 
 使用python tkinter制作的GUI   使用python hashlib的md5函数。 为了提高速度，选择使用MD5或者SHA1算法。
 
-# 下载
+# 下载 \ Download
 使用pyinstaller打包的exe ， 在release中下载Checksum.exe使用。  
 Checksum.exe的哈希码是 2b40e0abbf20706c4d14797ce68cfe61
+Checksum-EN.exe ' Hash code is 44e00d2b574d577eb425d874c32f01e5
 
-[![截图](https://github.com/kongmadai/checksum/blob/main/screenshot1.png)]
+
+[![截图](https://github.com/kongmadai/checksum/blob/main/screenshotA.png)]
+
+[![截图](https://github.com/kongmadai/checksum/blob/main/screenshotB.png)]
 
 
-[![截图](https://github.com/kongmadai/checksum/blob/main/screenshot2.png)]
+[![截图](https://github.com/kongmadai/checksum/blob/main/screenshotC.png)]
+
+[![截图](https://github.com/kongmadai/checksum/blob/main/screenshotD.png)]
