@@ -21,7 +21,7 @@
 # 下载 \ Download
 使用pyinstaller打包的exe ， 在release中下载Checksum.exe使用。   Download from the release.
 
-Checksum.exe的哈希码是 2b40e0abbf20706c4d14797ce68cfe61 
+Checksum.exe中文版的哈希码是 2b40e0abbf20706c4d14797ce68cfe61 
 
 Checksum-EN.exe ' Hash code is 44e00d2b574d577eb425d874c32f01e5
 
